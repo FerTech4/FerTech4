@@ -2,6 +2,8 @@
 
 <h4 align="center">A Systems Engineer Passionate about Programming, Committed to Advancing in Data Science and Machine Learning.</h4>
 
+---
+
 <h3>Who I Am</h3>
 
 - 🎓 Primary Degree: **Systems Engineer**  
@@ -9,6 +11,8 @@
 - 🌱 Continuously developing my skills in **machine learning and deep learning**, with hands-on experience analyzing sales data
 - 💼 Explore new career opportunities in **data science**, **machine learning** and other technological fields
 - 👯 Interested in collaborating on **open-source projects** to gain more experience
+
+---
 
 ### Contact  
 - GitHub: [FerTech4](https://github.com/FerTech4)
