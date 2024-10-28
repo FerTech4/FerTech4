@@ -16,7 +16,7 @@
 
 ### Contact  
 - GitHub: [FerTech4](https://github.com/FerTech4)
-- LinkedIn: www.linkedin.com/in/fer-del-moral-25b785311
+- LinkedIn: www.linkedin.com/in/ferdelmoral44
 - Email: ferdelmoral44@gmail.com
 <!--
 **FerTech4/FerTech4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
