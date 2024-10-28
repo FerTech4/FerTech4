@@ -2,8 +2,6 @@
 
 <h4 align="center">A Systems Engineer Passionate about Programming, Committed to Advancing in Data Science and Machine Learning.</h4>
 
----
-
 <h3>Who I Am</h3>
 
 #### 1.
