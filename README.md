@@ -4,11 +4,21 @@
 
 <h3>Who I Am</h3>
 
-#### 1.
+- 🎓 Primary Degree: **Systems Engineer**  
+- 🎓 Additional Degree: **Programmer Analyst**
+- 🌱 Continuously developing my skills in **machine learning and deep learning**, with hands-on experience analyzing sales data
+- 💼 Explore new career opportunities in **data science**, **machine learning** and other technological fields
+- 👯 Interested in collaborating on **open-source projects** to gain more experience
+
+### Contact  
+- GitHub: [FerTech4](https://github.com/FerTech4)
+- LinkedIn: www.linkedin.com/in/fer-del-moral-25b785311
+- Email: ferdelmoral44@gmail.com
 <!--
 **FerTech4/FerTech4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
