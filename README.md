@@ -4,7 +4,7 @@
 
 ---
 
-<h3>Who I Am</h3>
+<h3>Who I Am</h3> 
 
 - 🎓 Primary Degree: **Systems Engineer**  
 - 🎓 Additional Degree: **Programmer Analyst**
