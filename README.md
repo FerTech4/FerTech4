@@ -19,6 +19,12 @@
 - LinkedIn: [ferdelmoral44](https://www.linkedin.com/in/ferdelmoral44)
 - Email: [ferdelmoral44@gmail.com](mailto:ferdelmoral44@gmail.com)
 - X: [@FerTech4_](https://x.com/FerTech4_)
+
+---
+
+### Achievements 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fertech4&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **FerTech4/FerTech4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
